@@ -1,4 +1,4 @@
-# Installation of Prometheus and Alertmanager with Docker
+# Installation of Prometheus and Alertmanager with Docker Compose
 
 This repository contains the Docker Compose configuration for deploying Prometheus and Alertmanager on a virtual machine (VM). Prometheus is a robust monitoring system, and Alertmanager handles alerts sent by client applications like Prometheus.
 
