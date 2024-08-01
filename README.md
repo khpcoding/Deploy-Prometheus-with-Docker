@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 Follow these steps to set up Prometheus and Alertmanager:
 
-1. **Clone the repository:**
+**Clone the repository:**
 
    ```sh
    git clone https://github.com/khpcoding/Installation-Prometheus-with-Docker.git
